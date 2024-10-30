@@ -1,4 +1,4 @@
-Techzone
+Techzone:
 Índice
 Descrição
 Funcionalidades
@@ -6,10 +6,10 @@ Layout
 Tecnologias Utilizadas
 Como Usar
 Autor
-Descrição
+Descrição:
 Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar a loja Techzone, que vende eletrônicos e acessórios. O site exibe produtos em destaque, promoções e informações sobre a empresa, servindo como um excelente modelo para lojas online.
 
-Funcionalidades
+Funcionalidades:
 Responsividade: Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
 Design Atraente: Utiliza uma paleta de cores modernas e imagens de alta qualidade para atrair a atenção dos visitantes.
 Navegação Simples: Links para seções como TVs, Eletrodomésticos, Informática, Monitores, Celulares, Acessórios, Sobre e Contato.
@@ -32,8 +32,11 @@ Seção de Promoções: Destaque para as promoções atuais, apresentando cartõ
 Rodapé: O rodapé contém informações de copyright, endereço da empresa e localização no Brasil.
 
 Tecnologias Utilizadas
+
 HTML5
+
 CSS3
+
 Bootstrap
 
 bash https://github.com/leandrororiz/techzone.git

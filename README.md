@@ -1,58 +1,40 @@
-TECHZONE
-
+Techzone
 Índice
-
-[Descrição]
-
-[Funcionalidades]
-
-[Layout]
-
-[Tecnologias Utilizadas]
-
-[Como Usar]
-
-[Autor]
-
 Descrição
-Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar a loja online Techzone. O site exibe produtos em destaque, promoções e informações sobre os serviços, sendo um ótimo exemplo de template inicial para sites de e-commerce.
+Funcionalidades
+Layout
+Tecnologias Utilizadas
+Como Usar
+Autor
+Descrição
+Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar a loja Techzone, que vende eletrônicos e acessórios. O site exibe produtos em destaque, promoções e informações sobre a empresa, servindo como um excelente modelo para lojas online.
 
 Funcionalidades
 Responsividade: Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
-Design Atraente: Utiliza cores escuras e imagens vibrantes para captar a atenção dos visitantes.
-Navegação Simples: Links para seções como Home, TVs, Eletrodomésticos, Informática, Celulares, Acessórios, Sobre e Contato.
-Seções Destacadas: Exibe produtos em destaque, recomendações e promoções.
-
+Design Atraente: Utiliza uma paleta de cores modernas e imagens de alta qualidade para atrair a atenção dos visitantes.
+Navegação Simples: Links para seções como TVs, Eletrodomésticos, Informática, Monitores, Celulares, Acessórios, Sobre e Contato.
+Seções Destacadas: Exibe produtos em destaque e promoções.
 Layout
-O layout do site da Techzone é projetado para oferecer uma experiência de navegação fluida e agradável aos usuários, destacando produtos e promoções de forma clara e atraente.
+Cabeçalho (Navbar): O cabeçalho do site apresenta uma navbar fixa no topo da página, com um fundo branco que realça os elementos de navegação.
 
-Cabeçalho (Navbar)
-O cabeçalho é composto por uma barra de navegação fixa no topo da página, com um design minimalista. A logo da Techzone está posicionada à esquerda, proporcionando fácil reconhecimento da marca. Os links de navegação são claramente visíveis e organizados em uma lista horizontal, permitindo que os usuários acessem rapidamente as seções principais do site, como Home, TVs, Eletrodomésticos, Informática, Celulares, Acessórios, Sobre e Contato.
+Logo da Loja: "TECHZONE", em destaque.
+Links de Navegação: Home, TVs, Eletrodomésticos, Informática, Monitores, Celulares, Acessórios, Sobre e Contato.
+Banner Principal: Abaixo do cabeçalho, o banner principal ocupa toda a largura da tela e apresenta uma série de imagens vibrantes, destacando produtos e promoções.
 
-Banner Principal
-Abaixo do cabeçalho, um grande banner rotativo ocupa toda a largura da tela, apresentando imagens de alta qualidade dos produtos em destaque. Cada slide inclui um título chamativo e uma breve descrição, acompanhados por botões de ação que incentivam os visitantes a realizar compras imediatas.
+Seção de Produtos em Destaque: Esta seção destaca os principais produtos da loja, com cartões que incluem:
 
-Seção de Produtos em Destaque
-Esta seção apresenta os produtos mais populares e em promoção. Os produtos são exibidos em cartões, cada um contendo uma imagem atrativa, o nome do produto, o preço e um botão "COMPRAR AGORA". Os cartões são organizados em uma grade flexível, adaptando-se a diferentes tamanhos de tela.
+Imagem do produto.
+Nome do produto.
+Preço.
+Botão "COMPRAR AGORA".
+Seção de Promoções: Destaque para as promoções atuais, apresentando cartões com informações sobre os descontos e produtos em oferta.
 
-Seção de Produtos Recomendados
-Similar à seção anterior, esta parte do layout exibe uma seleção de produtos recomendados, com cartões que incentivam a exploração adicional. A seção é projetada para ajudar os usuários a descobrir novos produtos com base em suas preferências.
-
-Seção de Promoções
-Aqui, ofertas especiais e descontos são destacados em uma nova grade de cartões, com imagens que capturam a atenção. Cada cartão apresenta um título, uma descrição sucinta e um botão que leva o usuário para mais detalhes sobre a promoção.
-
-Rodapé
-O rodapé do site é discreto, mas informativo. Ele inclui informações de copyright, um breve endereço da Techzone e a indicação do país. O design é coerente com o restante do site, garantindo uma navegação contínua até o final da página.
-
-Este layout foi cuidadosamente planejado para maximizar a usabilidade e a estética, proporcionando uma experiência agradável e convidativa aos visitantes da Techzone.
+Rodapé: O rodapé contém informações de copyright, endereço da empresa e localização no Brasil.
 
 Tecnologias Utilizadas
-
 HTML5
-
 CSS3
-
-Bootstrap (v5.3.3)
+Bootstrap
 
 bash https://github.com/leandrororiz/techzone.git
 

@@ -1,18 +1,13 @@
 Techzone
 
-Índice
+ Índice
 
-Descrição
-
-Funcionalidades
-
-Layout
-
-Tecnologias Utilizadas
-
-Como Usar
-
-Autor
+- [Descrição]
+- [Funcionalidades]
+- [Layout]
+- [Tecnologias Utilizadas]
+- [Como Usar]
+- [Autor]
 
 Descrição:
 

@@ -49,8 +49,11 @@ Este layout foi cuidadosamente planejado para maximizar a usabilidade e a estét
 Tecnologias Utilizadas
 
 HTML5
+
 CSS3
+
 Bootstrap (v5.3.3)
+
 bash https://github.com/leandrororiz/techzone.git
 
 Autores Desenvolvido por: Leandro Roriz Fidalgo, Luis Andre Moura, Emanuel Moreira Dos Anjos

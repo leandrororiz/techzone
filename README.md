@@ -49,10 +49,8 @@ Rodapé: O rodapé contém informações de copyright, endereço da empresa e lo
 Tecnologias Utilizadas:
 
 HTML5
-
 CSS3
-
-Bootstrap
+Bootstrap (v5.3.3)
 
 bash https://github.com/leandrororiz/techzone.git
 

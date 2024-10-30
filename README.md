@@ -1,14 +1,19 @@
+TECHZONE
 
-Claro! Aqui está a estrutura do README para o projeto Techzone, seguindo o formato que você forneceu:
-
-Techzone
 Índice
-Descrição
-Funcionalidades
-Layout
-Tecnologias Utilizadas
-Como Usar
-Autor
+
+[Descrição]
+
+[Funcionalidades]
+
+[Layout]
+
+[Tecnologias Utilizadas]
+
+[Como Usar]
+
+[Autor]
+
 Descrição
 Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar a loja online Techzone. O site exibe produtos em destaque, promoções e informações sobre os serviços, sendo um ótimo exemplo de template inicial para sites de e-commerce.
 
@@ -42,10 +47,10 @@ O rodapé do site é discreto, mas informativo. Ele inclui informações de copy
 Este layout foi cuidadosamente planejado para maximizar a usabilidade e a estética, proporcionando uma experiência agradável e convidativa aos visitantes da Techzone.
 
 Tecnologias Utilizadas
+
 HTML5
 CSS3
 Bootstrap (v5.3.3)
-
 bash https://github.com/leandrororiz/techzone.git
 
 Autores Desenvolvido por: Leandro Roriz Fidalgo, Luis Andre Moura, Emanuel Moreira Dos Anjos
